@@ -1,1 +1,81 @@
-# grants
+# **GRANTS**
+
+## Deadline and Notifications: Rolling
+
+The Magma Core Foundation (MCF) oversees the grant program.  We provide individuals and project teams with access to funding, technical support, and community resources. Grant proposals are reviewed and approved by the MCF team and Grant Committee.
+
+The Magma Core Foundation seeks to connect the world to a faster internet by enabling service providers to build cost-effective, extensible, and carrier-grade networks.  This is where you come in. We are actively looking for teams to help us build and improve Magma and Magma related products to make the Open Source Wireless future possible. Our funding is non-dilutive, so we never take any ownership over the IP or team, but we do ask that any software be licensed under the BSD 3 Clause licend and contributed to the Magma Open Source library.  We typically fund up to a maximum of $100k USD. Grants are priced and issues in USD. We are happy to cover things like prototyping costs, but don&#39;t typically pay for travel, rentals, yachts or freelancers&#39; salary. Ideally the scope of the work fits within a 12 month period.
+
+
+ ## Grant Program Criteria
+
+Here is the primary criteria for MCF grant applicants:
+
+- Implements or extends features or funcionalities of Magma or Magma related Open Source software.
+- Timeframe: up to 12 months to Proof of Concept (poc).
+- Licensed openly under the BSD 3 Clause license.
+- Imnplemented to the quality standards of the Magma Project as confirmed by one or more then current Magma Codeowners
+
+ ## How to Apply
+
+The application process itself is fairly easy, although most applicants find creating a good roadmap to be the hardest part (see below for an example). The best way to get your proposal accepted is to write a great roadmap. If you have a great idea for building in our ecosystem, apply!
+
+We recommend that the scope of the work (SoW) can fit within a 12 month period or less.
+
+ProTip: Milestones should relate to a completed deliverable over an estimated timeframe and payments which reflect these milestones.
+
+For a roadmap, we recommend the following:
+
+- describe the expected functionality and how to validate it
+- how your project is related to Magma
+- tie function to milestones
+
+Example:
+
+Milestone 1, September 30 2021, $2000 upfront
+
+*implementation of X feature or functionality, explain*
+
+Milestone 2, October 31 2021, $5000 when completed
+
+*explain additional features and implementation*
+
+Milestone 3, November 20 2021, $5000 when completed
+
+*final feature implementation and poc/mvp demo*
+
+**Please make a copy of the [Application Template](https://github.com/magma/grants/blob/master/template.md) and submit as an issue in this repo.**
+
+----------------------
+
+**Best Practices:**
+
+- All code must be sumitted for public review and approval by at last one Magma Codeownerprior to being accepted/merged into Magma
+- Provide a test suite, comprising unit and integration test, along with a guide on how to set up and run.
+- Unit Test must include code coverage of at least 70% of the code submitted.
+- Provide tutorials for the community to onboard or implement your project
+- Indicate milestone duration as well as number of full-time employees working if it varies from milestone to milestone
+
+-----------------------
+
+**Areas of Interest**
+
+*Based on feedback from the community, here are some projects in no particular order that MCP is keen to support.*
+
+1. Support for outbound roaming of Magma subscribers
+2. Support for inter-AGW handoff between Magma AGWs
+3. Support for handoff between Magma AGWs and non-Magma 3gpp compliant networks
+4. Full support for IPv6 user (bearer plane) data connections
+5. Support for VoLTE and/or VoNR (5g) by integrating with 3rd party IMS platforms
+6. Support for 5g Network Slicing functions
+7. Improved security of for Magma
+8. Updating Magma's use of 3rd party packages to current revisions
+9. Resolution of issues with Magma discovered by automated code scanning tools 
+
+-----------------------
+
+Some examples from prior project proposals:
+
+| Project                                             | Notes
+|-----------------------------------------------------|----------------------------------------------
+| TBD | TBD |
