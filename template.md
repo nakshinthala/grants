@@ -1,3 +1,5 @@
+Note: this is a discussion daft of the grant program, subject to approval of the Magma Core Foundation Governing Board.
+
 # Template for Submission
 
 Please create an issue in the grant repo and use this submission template for an easier submission build out
