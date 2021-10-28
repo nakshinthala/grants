@@ -18,7 +18,7 @@ This is the amount you're requesting for the grant, not necessarily the total bu
 
 ## Contact information:
 
-Please provide your legal name and a link to the submitted issue to grants@dewi.org. This will streamline the contract process and KYC. A lack of this information will delay the contract.
+Please provide your legal name and a link to the submitted issue to grants@magmacore.org. This will streamline the contract process and KYC. A lack of this information will delay the contract.
 
 Team or Project website: (optional)
 
