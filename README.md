@@ -4,7 +4,7 @@
 
 The Magma Core Foundation (MCF) oversees the grant program.  We provide individuals and project teams with access to funding, technical support, and community resources. Grant proposals are reviewed and approved by the MCF team and Grant Committee.
 
-The Magma Core Foundation seeks to connect the world to a faster internet by enabling service providers to build cost-effective, extensible, and carrier-grade networks.  This is where you come in. We are actively looking for teams to help us build and improve Magma and Magma related products to make the Open Source Wireless future possible. Our funding is non-dilutive, so we never take any ownership over the IP or team, but we do ask that any software be licensed under the BSD 3 Clause licend and contributed to the Magma Open Source library.  We typically fund up to a maximum of $100k USD. Grants are priced and issues in USD. We are happy to cover things like prototyping costs, but don&#39;t typically pay for travel, rentals, yachts or freelancers&#39; salary. Ideally the scope of the work fits within a 12 month period.
+The Magma Core Foundation seeks to connect the world to a faster internet by enabling service providers to build cost-effective, extensible, and carrier-grade networks.  This is where you come in. We are actively looking for teams to help us build and improve Magma and Magma related products to make the Open Source Wireless future possible. Our funding is non-dilutive, so we never take any ownership over the IP or team, but we do ask that any software be licensed under the BSD 3 Clause licend and contributed to the Magma Open Source library.  We typically prefer working on smaller grants, but will consider funding grants up to a maximum of $1M USD. Grants are priced and issues in USD. We are happy to cover things like prototyping costs, but don&#39;t typically pay for travel, rentals, yachts or freelancers&#39; salary. Ideally the scope of the work fits within a 12 month period.
 
 
  ## Grant Program Criteria
@@ -14,7 +14,7 @@ Here is the primary criteria for MCF grant applicants:
 - Implements or extends features or funcionalities of Magma or Magma related Open Source software.
 - Timeframe: up to 12 months to Proof of Concept (poc).
 - Licensed openly under the BSD 3 Clause license.
-- Imnplemented to the quality standards of the Magma Project as confirmed by one or more then current Magma Codeowners
+- Implemented to the quality standards of the Magma Project as confirmed by one or more then current Magma Codeowners
 
  ## How to Apply
 
