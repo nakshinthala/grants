@@ -16,6 +16,10 @@ This is your opportunity to convince the community of the impact and importance 
 
 This is the amount you're requesting for the grant, not necessarily the total budget.
 
+## Sponsoring Codeowner
+
+Each proposal submitted must have a sponsoring Codeowner (as defined in the [Magma Technical Charter](https://github.com/magma/Governance/blob/main/CHARTER.md)).
+
 ## Contact information:
 
 Please provide your legal name and a link to the submitted issue to grants@magmacore.org. This will streamline the contract process and KYC. A lack of this information will delay the contract.
