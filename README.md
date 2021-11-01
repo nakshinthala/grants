@@ -46,6 +46,14 @@ Milestone 3, November 20 2021, $5000 when completed
 
 **Please make a copy of the [Application Template](https://github.com/magma/grants/blob/master/template.md) and submit as an issue in this repo.**
 
+## Proposal Acceptance, approval and grant awards
+
+Each grant proproal received will be reviewed by the Magma Core Foundation's Technical Steering Committee (TSC).  Prior to consideration of any grant for approval the TSC must gain sign-off from at least one current Magma Codeowner, as defined in the Magma Technical Charter, who will agree to serve as a Technical Lead with oversight of the performance against any gant awarded against the proposal. The TSC may request changes to the proposal to help it better align with the objectives and practices of the MCF as well smooth integration into Magma's overall roadmap.  The TSC may also request clarification regarding schedules and committments associated with the grant.  
+
+Those proposal's that recieve technical acceptance from the TSC will be forrwarded to the MCF Governing Board (GB) for final approval and grant award.  The GB may request further clarification and changes before any grant is awarded.
+
+Performance against the committments associated with any grant awarded will be monitored by the project Technical Lead (codeowner) appointed by the TSC.
+
 ----------------------
 
 **Best Practices:**
