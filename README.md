@@ -1,3 +1,5 @@
+# DRAFT - NOT YET APPROVED by Magma Core Foundation
+
 # **GRANTS**
 
 ## Deadline and Notifications: Rolling
