@@ -6,21 +6,23 @@
 
 The Magma Core Foundation (MCF) oversees the grant program.  We provide individuals and project teams with access to funding, technical support, and community resources. Grant proposals are reviewed and approved by the MCF team and Grant Committee.
 
-The Magma Core Foundation seeks to connect the world to a faster internet by enabling service providers to build cost-effective and extensible.  This is where you come in. We are actively looking for teams to help us build and improve Magma and Magma related products to make the Open Source Wireless future possible. Our funding is non-dilutive, so we never take any ownership over the IP or team, but we do ask that any software be licensed under the BSD 3 Clause licend and contributed to the Magma Open Source library.  We typically prefer working on smaller grants, but will consider funding grants up to a maximum of $1M USD. Grants are priced and issues in USD. We are happy to cover things like prototyping costs, but don&#39;t typically pay for travel, rentals, yachts or freelancers&#39; salary. Ideally the scope of the work fits within a 12 month period.
+The Magma Core Foundation seeks to connect the world to a faster internet by enabling service providers to build cost-effective and extensible connectivity services.  This is where you come in. We are actively looking for teams to help us build and improve Magma and Magma related products to make the Open Source Wireless future possible. Our funding is non-dilutive, so we never take any ownership over the IP or team, but we do ask that any software be licensed under the BSD 3 Clause license and contributed to the Magma Open Source library.  We typically prefer working on smaller grants, but will consider funding grants up to a maximum of $1M USD. Grants are priced and issues in USD. We are happy to cover things like prototyping costs, but don&#39;t typically pay for travel, rentals, yachts or freelancers&#39; salary. Ideally the scope of the work fits within a 12 month period.
 
 
  ## Grant Program Criteria
 
 Here is the primary criteria for MCF grant applicants:
 
-- Implements or extends features or funcionalities of Magma or Magma related Open Source software.
+- Implements features or functionalities of Magma or Magma related Open Source software
+- You have a business need with a differentiated service offer, wherein Magma is used for leverage and accelerate the time to market.  
+- Have a good idea on your service offer tied to a market TAM (total addressable market) and your approachable SAM (Serviceable addressable market).  
 - Timeframe: up to 12 months to Proof of Concept (poc).
 - Licensed openly under the BSD 3 Clause license.
 - Implemented to the quality standards of the Magma Project as confirmed by one or more then current Magma Codeowners
 
  ## How to Apply
 
-The application process itself is fairly easy, although most applicants find creating a good roadmap to be the hardest part (see below for an example). The best way to get your proposal accepted is to write a great roadmap. If you have a great idea for building in our ecosystem, apply!
+The application process itself is fairly easy, although most applicants find creating a good roadmap to be the hardest part (see below for an example). The best way to get your proposal accepted is to write a great roadmap and be ready to share the business case tied to your service offer. If you have a great idea for building in our ecosystem, apply!
 
 We recommend that the scope of the work (SoW) can fit within a 12 month period or less.
 
@@ -29,8 +31,15 @@ ProTip: Milestones should relate to a completed deliverable over an estimated ti
 For a roadmap, we recommend the following:
 
 - describe the expected functionality and how to validate it
-- how your project is related to Magma
-- tie function to milestones
+- how your project would leverage Magma ( description of soluiton architecture, solution stack, end to end representation is best)
+- tie function(s) to milestones
+
+For a business case, we recommend the following:
+
+- Target Market (TAM) and approachable servicablity opportunity (SAM)
+- Financial model to end customer 
+- Route to Market - Offer specifics
+- Commerical revenue projections if any
 
 Example:
 
